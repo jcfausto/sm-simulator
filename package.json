@@ -1,0 +1,17 @@
+{
+  "name": "sm-simulator",
+  "version": "1.0.0",
+  "description": "Simulator for interacting with the sm-api",
+  "main": "index.js",
+  "scripts": {
+    "start": "node simulate",
+    "test": "jest"
+  },
+  "author": "hello@jcfausto.com",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "jest": "^22.4.0",
+    "yargs": "^11.0.0"
+  }
+}
